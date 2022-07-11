@@ -19,27 +19,27 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `MY NAME IS ALEXA QUEEN🧚
-MY CREATOR IS CYBERXKID👩‍💻` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `MY NAME IS ꧁🍁𝘼𝘾𝙃𝙄𝙔𝘼🍁꧂༺ᵇᵒᵗ༻🧚
+MY CREATOR IS ═➻══➻══➻═〠═𝔸ℂℍ𝕀ℕ𝕋ℍ𝔸═➻═❥◍❥══➻═════➻👩‍💻` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+27686881509'] //Owner number in aive msg
-global.premium = ['+27686881509'] //Owner Number info
-global.ownernomer = '+27686881509' //Owner Number <<<
+global.owner = ['+94752521338'] //Owner number in aive msg
+global.premium = ['+94752521338'] //Owner Number info
+global.ownernomer = '+94752521338' //Owner Number <<<
 
-global.ownername = '👩‍💻𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳🧚‍♂️' //Owner Name
-global.botname = ' 🧚‍♂️𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽🧚‍♂️' //Bot Name
+global.ownername = '❄卂匚卄丨几ㄒ卄卂🧚‍♂️' //Owner Name
+global.botname = ' 🧚‍♂️🍁ₐCₕᵢYₐ🍁 ༺ᵇᵒᵗ༻🧚‍♂️' //Bot Name
 
-global.button = '📱Youtube📱' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '📱whtsapp group📱' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/IDumKeDMBbZJRRTZ2cwUdf' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '🧚‍♂️𝙰𝙻𝙴𝚇𝙰 𝚀𝚄𝙴𝙴𝙽🧚‍♂️' //Bot Pacage Name
-global.author = '👩‍💻𝙲𝚈𝙱𝙴𝚁𝚇𝙺𝙸𝙳👩‍💻' //Author Name
+global.packname = '🧚‍♂️ᴀᴄʜɪʏᴀ🧚‍♂️' //Bot Pacage Name
+global.author = '👩‍💻ᴀᴄʜɪʏᴀ👩‍💻' //Author Name
 global.prefa = ['','!','.','👩‍💻','❤️','🧚‍♂️'] //Command Prefix eg:(.alive ,alive 👩‍💻alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
+global.dragonemoji = '❦☞' // Menu emoji
 global.footer = '©_Cyberxkid.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉🙈👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
